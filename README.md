@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, seja bem-vindo(a) ao meu perfil e que a força esteja com você! 👋
 
-<!--
-**CaioMelloh/CaioMelloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou na jornada para me tornar um dev Back-end
+- 🌱 Estou aprendendo HTML, CSS, JS, JAVA
+- 🖤 Cada dia mais apaixonado pela tecnologia
+- 🦇 Para a bat-IDE (**música tema do batman**)!
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/CaioMelloh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioMelloh&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMelloh&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
